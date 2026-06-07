@@ -1,0 +1,5 @@
+com\mycompany\grupo_adapter_singleton\Singleton.class
+com\mycompany\grupo_adapter_singleton\Adapter.class
+com\mycompany\grupo_adapter_singleton\Target.class
+com\mycompany\grupo_adapter_singleton\Adaptee.class
+com\mycompany\grupo_adapter_singleton\Grupo_Adapter_Singleton.class
